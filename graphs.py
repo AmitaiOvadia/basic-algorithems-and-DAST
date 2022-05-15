@@ -5,9 +5,7 @@ from pyvis.network import Network
 
 class Graph:
     def __init__(self):
-        self.heap = [0, ]
-        self.heap_size = 0
-        self.MAX = 1
+        pass
 
 
 if __name__ == '__main__':
